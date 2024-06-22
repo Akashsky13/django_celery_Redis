@@ -1,0 +1,1 @@
+# Email sending to the user using celery celery beat and redis.
